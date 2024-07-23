@@ -1,5 +1,5 @@
 <h1 style="font-family: 'Courier New', Courier, monospace;">Hi! I'm Ritu Gupta, a MERN stack enthusiast.</h1>
-<br>🔭Delving into the fascinating world of AI.<br>🌱Passionate to merge my web dev skills with artificial intelligence!<br>⚡Secret love for math—solving equations feels like unraveling a mystery!<br><br>Goal for 2024: Craft an irresistible portfolio.
+<br>🔭Delving into the fascinating world of AI.<br>🌱Passionate to merge my web dev skills with artificial intelligence!<br>⚡Secret love for math — solving equations feels like unraveling a mystery!<br><br>Goal for 2024: Craft an irresistible portfolio.
 
 
 ## 🌐 Socials:
